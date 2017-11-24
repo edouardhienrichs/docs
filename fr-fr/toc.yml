@@ -1,7 +1,5 @@
 - name: Accueil
   href: index.md
-- name: Contributeurs
-  href: contributors.md
 - name: Démarrage
   href: getting-started.md
 - name: Nœud NEO
@@ -9,3 +7,7 @@
   items:
     - name: Introduction
       href: node/introduction.md
+    - name: Référence API
+      href: node/introduction.md
+- name: Contributeurs
+  href: contributors.md
